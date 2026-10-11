@@ -1,0 +1,10 @@
+{
+  "name": "판옵티콘 보안 감시망 (PANOPTICON Surveillance Network)",
+  "description": "실시간 웹캠 영상 분석과 다중 감시 매트릭스를 제어하는 사이버 보안 판옵티콘 관제 터미널",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
